@@ -1,2 +1,2 @@
-# number-guessing
-Number Guessing Game
+# Number-Guessing
+Number Guessing Game using functions
